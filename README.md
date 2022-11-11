@@ -1,4 +1,7 @@
 # BPDFHE-Python
-Brightness preserving dynamic fuzzy histogram equalization
+Brightness Preserving Dynamic Fuzzy Histogram Equalization(BPDFHE) proposes a novel modification of the brightness preserving dynamic histogram equalization technique to improve its brightness preserving and contrast enhancement abilities while reducing its computational complexity. This technique, called uses fuzzy statistics of digital images for their representation and processing. Representation and processing of images in the fuzzy domain enables the technique to handle the inexactness of gray level values in a better way, resulting in improved performance. Besides, the imprecision in gray levels is handled well by fuzzy statistics, fuzzy histogram, when computed with appropriate fuzzy membership function, does not have random fluctuations or missing intensity levels and is essentially smooth. This helps in obtaining its meaningful partitioning required for brightness preserving equalization.
+Details of the method are available in
 
-https://ieeexplore.ieee.org/abstract/document/5681130
+D. Sheet, H. Garud, A. Suveer, J. Chatterjee and M. Mahadevappa, "Brightness Preserving Dynamic Fuzzy Histogram Equalization", IEEE Trans., Consumer Electronics, vol. 56, no. 4, pp. 2475 - 2480, Nov. 2010. [http://dx.doi.org/10.1109/TCE.2010.5681130] 
+# Cite As
+Debdoot Sheet (2022). Brightness Preserving Dynamic Fuzzy Histogram Equalization (https://www.mathworks.com/matlabcentral/fileexchange/34172-brightness-preserving-dynamic-fuzzy-histogram-equalization), MATLAB Central File Exchange. Retrieved November 11, 2022.
